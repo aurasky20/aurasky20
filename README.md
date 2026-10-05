@@ -13,5 +13,5 @@
 ### 🛠️ Teknologi
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,tensorflow,opencv,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,tensorflow,nodejs,git,github&perline=7" />
 </div>
